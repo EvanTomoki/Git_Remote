@@ -1,1 +1,4 @@
 Hey!
+Finally, this thig is up, which is good, that means that 
+we can use git with ANY project that we want, we just need to
+polish our ability.
